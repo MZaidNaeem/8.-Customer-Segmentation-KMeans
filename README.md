@@ -1,10 +1,12 @@
 # 8.-Customer-Segmentation-KMeans
 
-![screenshot](img/2.png)
-An AI-powered Streamlit application that performs customer segmentation using unsupervised learning on raw invoice data. This project transforms transactional records into strategic customer insights using K-Means Clustering and RFM (Recency, Frequency, Monetary) analysis.
-
 🚀 Live Demo
 [see live demo](https://custumersegmentationbyzaidnaeem.streamlit.app/)
+
+![screenshot](Preview/webimg.png)
+An AI-powered Streamlit application that performs customer segmentation using unsupervised learning on raw invoice data. This project transforms transactional records into strategic customer insights using K-Means Clustering and RFM (Recency, Frequency, Monetary) analysis.
+
+
 
 📊 Problem Statement
 Businesses generate tons of transactional data — but how do we turn that into customer intelligence?
